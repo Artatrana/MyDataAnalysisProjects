@@ -1,0 +1,6 @@
+# Do not pull csv file into github
+fremont.csv
+
+# Do not place anything with '~' in github
+*~
+.idea
