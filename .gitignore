@@ -4,3 +4,4 @@ fremont.csv
 # Do not place anything with '~' in github
 *~
 .idea
+*pyc
